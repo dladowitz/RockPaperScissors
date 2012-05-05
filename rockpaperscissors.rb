@@ -1,10 +1,21 @@
 
-#choices = ["rock", "paper", "scissors"]
-#computerchoice = choices[rand(3)]
-Puts = "Choose either rock, paper or scissors"
-mychoice = gets
+choices = ["Rock", "Paper", "Scissors"]
 
-puts mychoice.chomp
+puts "Choose Rock, Paper or Scissors: "
+yourchoice = gets.capitalize.chomp
 
-#result = []<< mychoice.chomp << computerchoice
+puts "You chose " + yourchoice + "."
+
+puts ""
+puts "It's the computer's turn now. Hopefully he won't cheat again."
+puts ""
+
+computerchoice = choices[rand(3)]
+puts "The computer chose " + computerchoice +"."
+puts
+
+
+
+result = []<< yourchoice << computerchoice
+print result
 
