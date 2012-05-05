@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8435de42-d55f-4939-8610-7176b6bbc3f5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Rock Paper Scissors.iml" afterPath="$PROJECT_DIR$/.idea/Rock Paper Scissors.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rockpaperscissors.rb" afterPath="$PROJECT_DIR$/rockpaperscissors.rb" />
     </list>
@@ -30,7 +28,7 @@
       <file leaf-file-name="rockpaperscissors.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rockpaperscissors.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="18" selection-start="389" selection-end="389" vertical-scroll-proportion="0.6017699">
+            <state line="6" column="7" selection-start="125" selection-end="125" vertical-scroll-proportion="0.18053098">
               <folding />
             </state>
           </provider>
@@ -400,7 +398,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rockpaperscissors.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="18" selection-start="389" selection-end="389" vertical-scroll-proportion="0.6017699">
+        <state line="6" column="7" selection-start="125" selection-end="125" vertical-scroll-proportion="0.18053098">
           <folding />
         </state>
       </provider>
